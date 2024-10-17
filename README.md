@@ -1,6 +1,8 @@
-# CERN CSC 2023 Visualization Exercises
+# Visualization Course Exercises
 
 ![image](docs/img/cern-csc-vis-header.png)
+
+These exercises are from a course I've been giving for the last 7 years for the CERN School of Computing. They have evolved somewhat with the times, now including Altair Vis for example as a preferred way for creating Interactive Plots.
 
 The overall goal of these exercises is to introduce some of the concepts we learnt during the lectures, but also to use some of the tools we use on a daily basis as data scientists.
 
