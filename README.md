@@ -28,6 +28,8 @@ In these exercises we look at:
  * How to create visualizations using these tools for visualization of distributions, correlations, identifying outliers, etc.
  * How to customize visualizations to create more coherent visualizations by removing noise from plots such as distracting lines, axes boundaries, and so on.
  * For Altair, how to build a complex dashboard-like visualization in Jupyter.
+
+ * If you want to learn how to use D3.js to create more customisable visualizations, I have another course [here](https://eamonnmag.github.io/vis-course-practical/)
  
 
 The core exercises are all in the static visualization section, since this is what most people use when producing figures for example, they are also generally more scalable which is of particular importance
