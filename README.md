@@ -16,7 +16,7 @@ Remember to select the **LCG 103** option from the **software stack** drop down 
 
 ## Use
 
-```git clone https://github.com/eamonnmag/CERN-CSC-2023.git```
+```git clone https://github.com/eamonnmag/Visualization-Course.git```
 
 ## Tutorial Contents
 
