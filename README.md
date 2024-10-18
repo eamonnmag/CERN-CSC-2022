@@ -1,4 +1,10 @@
-# Visualization Course Exercises
+# Visualization Course 
+
+## Slides
+[Download Slides from Proton Drive](https://drive.proton.me/urls/KSSA48FCKG#Kkp16UsO7EqD)
+
+
+## Exercises
 
 ![image](docs/img/cern-csc-vis-header.png)
 
@@ -14,11 +20,11 @@ The overall goal of these exercises is to introduce some of the concepts we lear
 
 Remember to select the **LCG 103** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
 
-## Use
+### Use
 
 ```git clone https://github.com/eamonnmag/Visualization-Course.git```
 
-## Tutorial Contents
+### Tutorial Contents
 
 In these exercises we look at:
 
@@ -37,6 +43,6 @@ when dealing with huge datasets.
 
 The interactive visualization section is more for those who are already well versed in Matplotlib and Seaborn, and who want to extend their knowledge.
 
-## Credit
+### Credit
 
 Thanks to the creator of the FIFA Kaggle Data set, and the SWAN team @ CERN for helping me in preparing this tutorial!
